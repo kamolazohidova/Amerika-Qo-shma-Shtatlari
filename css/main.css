@@ -1,0 +1,23 @@
+ h1{
+background-color: wheat;
+   color: red;
+ }
+ 
+ 
+ body{
+    text-align: center; 
+    background-color: aqua;
+     color: blue;
+     font-family: cursive;
+ }
+ a{
+    color: saddlebrown;
+   text-align: center;
+ }
+ul{
+color: red;
+list-style: none;
+}
+ li{
+    text-align: center;
+ }
